@@ -6,5 +6,5 @@ This repo is a collection of all the questions & their solutions taught in the b
 <br>
 <h3> Basic Programs </h3>
 
-<a href="https://github.com/hariacharya7/College/blob/main/basics/program1_program_to_input_three_number_and_find_smallest.c"> Program-1: WAP to input three numbers and find and find the smallest one.</a>
+<a href="https://github.com/hariacharya7/College/blob/main/basics/program1_program_to_input_three_number_and_find_smallest.c"> Program-1: WAP to input three numbers and find and find the smallest one.</a><br>
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program2_program_to_input_4_number_find_greatest_number_among_them.c"> Program-2: WAP to input four numbers and find the greatest among them.</a>
