@@ -6,4 +6,4 @@ This repo is a collection of all the questions & their solutions taught in the b
 <br>
 <h3> Basic Programs </h3>
 
-<a href=""> Program-1: WAP to input three numbers and find and find the smallest one.</a>
+<a href="https://github.com/hariacharya7/College/blob/main/basics/program1_program_to_input_three_number_and_find_smallest.c"> Program-1: WAP to input three numbers and find and find the smallest one.</a>
