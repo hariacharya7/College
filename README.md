@@ -4,4 +4,6 @@ This repo is a collection of all the questions & their solutions taught in the b
 <br>
 <h2> List of all the problems & their solutions included in this repo</h2>
 <br>
+<h3> Basic Programs </h3>
+
 <a href=""> Program-1: WAP to input three numbers and find and find the smallest one.</a>
