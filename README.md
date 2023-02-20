@@ -10,4 +10,6 @@ This repo is a collection of all the questions & their solutions taught in the b
 <br>
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program4__wap_to_marks_of_5_subject_then_display_sum_and_average_of_them.c"> Program-4: WAP to input number of 5 subjects and find sum and average.</a>
 <br>
-<a href="https://github.com/hariacharya7/College/blob/main/basics/program5_WAP_to_input_marks_of_five_subject_and_find_out_your_position.c"> Program-4: WAP to input number of 5 subjects and find your position.</a>
+<a href="https://github.com/hariacharya7/College/blob/main/basics/program5_WAP_to_input_marks_of_five_subject_and_find_out_your_position.c"> Program-5: WAP to input number of 5 subjects and find your position.</a>
+<br>
+<a href="https://github.com/hariacharya7/College/blob/main/basics/program6_WAP_to_input_numbers_obtained_in_five_subjects_and_find_out_grade.c"> Program-6: WAP to input numbers obtained in five subjects and find out the grade</a>
