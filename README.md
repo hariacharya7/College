@@ -13,3 +13,6 @@ This repo is a collection of all the questions & their solutions taught in the b
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program5_WAP_to_input_marks_of_five_subject_and_find_out_your_position.c"> Program-5: WAP to input number of 5 subjects and find your position.</a>
 <br>
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program6_WAP_to_input_numbers_obtained_in_five_subjects_and_find_out_grade.c"> Program-6: WAP to input numbers obtained in five subjects and find out the grade</a>
+<br>
+<h2> Switch Case</h2>
+<a href="https://github.com/hariacharya7/College/blob/main/Switch_case/program7_switch_case_for_4_operations_on_two_numbers.c"> Program-7: WAP to input two number and perform 4 operations(add, subtract, muntiply and divide) using switch case.</a>
