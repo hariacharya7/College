@@ -8,7 +8,7 @@ This repo is a collection of all the questions & their solutions taught for the 
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program2_program_to_input_4_number_find_greatest_number_among_them.c"> Program-2: WAP to input four numbers and find the greatest among them.</a><br>
 <a href="https://github.com/hariacharya7/College/blob/main/basics/Program3_input_any_number_then_find_out_given_number_is_positive_negative_or_zero.c"> Program-3: WAP to input a number and find if the number is positive, negative or zero.</a>
 <br>
-<a href="https://github.com/hariacharya7/College/blob/main/basics/program4__wap_to_marks_of_5_subject_then_display_sum_and_average_of_them.c"> Program-4: WAP to input number of 5 subjects and find sum and average.</a>
+<a href="https://github.com/hariacharya7/College/blob/main/basics/program4__wap_to_marks_of_5_subject_then_display_sum_and_average_of_them.c"> Program-4: WAP to input number of 5 subjects and find sum and average.</a>(Not a conditional statement program.)
 <br>
 <a href="https://github.com/hariacharya7/College/blob/main/basics/program5_WAP_to_input_marks_of_five_subject_and_find_out_your_position.c"> Program-5: WAP to input number of 5 subjects and find your position.</a>
 <br>
