@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 <br>
-This repo is a collection of all the questions & their solutions taught in the beginners course (1st semester) of BICTE (Bachelor in Information & Communication Technology Education) offered by Tribhuvan University(TU), Faculty of Education.
+This repo is a collection of all the questions & their solutions taught for the student of C-Programming in (1st semester) of BICTE (Bachelor in Information & Communication Technology Education) offered by Tribhuvan University(TU), Faculty of Education.
 <br>
 <h4> Index of all programs in this repo:</h4>
 <h2> Conditional Statements </h2>
